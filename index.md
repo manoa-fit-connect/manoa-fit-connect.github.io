@@ -1,7 +1,7 @@
 ## Manoa-Fit-Connect
 
 Table of contents
-*[Overview](#overview)
+* [Overview](#overview)
 * [Team](#team)
 
 ## Overview
