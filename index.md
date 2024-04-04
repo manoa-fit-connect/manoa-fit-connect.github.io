@@ -70,8 +70,18 @@ This page serves as a bridge towards the main application, which connects the us
 This page serves as a hub for our audience to connect and share with like-minded individuals, fitness enthusiasts, to come together to inspire, motivate, and support each other in their pursuit of their personal health and body goals. The many plausible features should give users a quality social experience, such as, but not limiting too, workout buddy system, fitness goals / sharing, and friends management
 
 ### Equipment Page
+
+This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment. Once a user selects an option they are brought to its webpage with all equipment offered and the option to search for a specific piece of equipment. Each piece of equipment has a link to its location on the gym map and a list of exercises that can be done with it. Users can add the equipment to their workout for their favorite workouts page.
+<p align="center"><img src="./images/temporary.png" width="200px"></p><br><br>
+
 ### Favorite Workout Page
-### Progress Tracker PAge
+
+The Favorite Workout Page serves as a personalized hub for users to curate and organize their preferred exercises and routines. With a simple click, users can seamlessly add favorite routines or equipment to their workout folder, streamlining the process of building and maintaining their ideal fitness regimen. 
+
+### Progress Tracker Page
+
+This page will allow users to log workouts and give a rating to them. Each workout will have a category (weight training, cardio, wellness, or other), how long you work out for, how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.        
+
 ### Events Page
 
 ## Developer Guide
