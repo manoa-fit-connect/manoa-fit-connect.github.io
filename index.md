@@ -71,8 +71,14 @@ This page serves as a hub for our audience to connect and share with like-minded
 
 ### Equipment Page
 
-This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment. Once a user selects an option they are brought to its webpage with all equipment offered and the option to search for a specific piece of equipment. Each piece of equipment has a link to its location on the gym map and a list of exercises that can be done with it. Users can add the equipment to their workout for their favorite workouts page.
-<p align="center"><img src="./images/temporary.png" width="200px"></p><br><br>
+This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment.  
+![](images/equipment1.png)
+
+Once a user selects an option they are brought to its webpage with all equipment offered and the option to search for a specific piece of equipment.
+![](images/equipment2.png)
+
+Each piece of equipment has a link to its location on the gym map and a list of exercises that can be done with it. Users can add the equipment to their workout for their favorite workouts page.
+![](images/equipment3.png)
 
 ### Favorite Workout Page
 
@@ -111,3 +117,5 @@ $ meteor npm run lint
 `
 
 ## Milestone 1
+![](images/todom1.png)
+
