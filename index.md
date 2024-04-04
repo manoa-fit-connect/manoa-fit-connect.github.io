@@ -72,7 +72,7 @@ This page serves as a bridge towards the main application, which connects the us
 ### User Profile Page
 
 This page allows a user to customize their profile. The customizable fields include: profile image, first name, last name, age, gender, level, role, style, goals, availability, hobbies/sports, major, and a custom description. The idea behind the custom description field is to allow the user to add additional details to their profile, such as their routine, personal records, or diet. It is not required to customize the fields, but it will possibly allow for your profile to be searchable or filterable for other users looking to connect with a fitness buddy.
-![](images/userprofile.png)
+![](images/userprofile-page.png)
 
 ### Friends Page
 
