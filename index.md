@@ -4,7 +4,7 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Team](#team)
+* [Team Members](#team-members)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Milestone 1](#milestone-1)
@@ -55,16 +55,49 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 ## User Guide
 
 ### Landing Page
+
+This page serves as a landing page for Mano Fit Connect Platform Web App. Features / strategies employed by marketing such as, but not limited to, a clear purpose, modern UX/UI, and a strong call to action leading up to the main application. As for technical features, it should aim for a responsive design and fast loading speed, and if possible, analytics 
+
 ### About Page
 ### Sign Up Page
 ### Login Page
+
+This page serves as a bridge towards the main application, which connects the user with their personal data tailored to our web application. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session
+
 ### User Profile Page
 ### Friends Page
+
+This page serves as a hub for our audience to connect and share with like-minded individuals, fitness enthusiasts, to come together to inspire, motivate, and support each other in their pursuit of their personal health and body goals. The many plausible features should give users a quality social experience, such as, but not limiting too, workout buddy system, fitness goals / sharing, and friends management
+
 ### Equipment Page
 ### Favorite Workout Page
 ### Progress Tracker PAge
 ### Events Page
 
 ## Developer Guide
+
+First you will need install <a href = "https://www.meteor.com/install">Meteor</a>. 
+Second you will need to install <a href = "https://nodejs.org/en/download/">Node.js</a>. 
+Third go to the our <a href = "https://github.com/manoafitnessfinder/app">github</a> and download it as a template. Fourth copy it to your local machine by clicking "Clone or Download". 
+
+Now cd into the app directory of the local your local copy and perform:
+
+```
+$ meteor npm install
+```
+
+Followed by:
+
+```
+$ meteor npm run start
+```
+
+Now you have a local instance running at [http://localhost:3000](http://localhost:3000)! 
+
+After modifying the code to your liking you may check for errors by running:
+
+`
+$ meteor npm run lint
+`
 
 ## Milestone 1
