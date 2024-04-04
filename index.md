@@ -22,6 +22,7 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 
 
 ## Team Members
+[Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
 
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
   <h3>Hayden Bireley</h3>
@@ -37,8 +38,8 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
   <h3>Sidney Gills</h3>
-  <p align="center"><img src="./images/placeholder.png" height="250" width="250" alt = ""></p>
-  <p>I <3 ICS!!!!!!</p>
+  <p align="center"><img src="./images/sidney.png" height="250" width="250" alt = ""></p>
+  <p>I'm currently a junior majoring in Computer Science at UH Manoa. My experience includes small, individual-based projects and I'm excited to apply what I've learned towards this team-based application.</p>
 </div>
 
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
