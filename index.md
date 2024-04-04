@@ -1,5 +1,5 @@
 <h1 align="center">Manoa Fit Connect</h1>
-<p align="center"><img src="./images/logo.png" width="100px"></p><br><br>
+<p align="center"><img src="./images/MFClogo.png" width="100px"></p><br><br>
 
 
 Table of contents
