@@ -43,6 +43,12 @@ I am a Junior at UH Manoa, double majoring in both Computer Science and German. 
 <p align="center"><img src="./images/victoria.png" height="250" width="250" alt = ""></p>
 I am currently a Junior at UH Manoa, studying for a BS in Computer Science. I have experience working on large scale projects for other fields of work but not for designing a website with a team. I’m looking forward to applying the skills I've learned to help develop this project as a collaborative effort.
 
+<div style="background-color: #f2f2f2; padding: 10px;">
+  <h3>Victoria Valverde</h3>
+  <p align="center"><img src="./images/victoria.png" height="250" width="250" alt = ""></p>
+  <p>I am currently a Junior at UH Manoa, studying for a BS in Computer Science. I have experience working on large scale projects for other fields of work but not for designing a website with a team. I’m looking forward to applying the skills I've learned to help develop this project as a collaborative effort.</p>
+</div>
+
 ## User Guide
 
 ### Landing Page
