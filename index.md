@@ -1,4 +1,4 @@
-# Bowfolios
+# Manoa-Fit-Connect
 
 ## Table of contents
 
