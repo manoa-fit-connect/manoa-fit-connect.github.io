@@ -116,6 +116,9 @@ After modifying the code to your liking you may check for errors by running:
 $ meteor npm run lint
 `
 
-## Milestone 1
-![](images/todom1.png)
+## Milestone 1: Mockup development
+The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system.
+
+
+![](images/todosm1.png)
 
