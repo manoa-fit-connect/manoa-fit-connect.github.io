@@ -58,18 +58,24 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 
 ### Landing Page
 
-This page serves as a landing page for Mano Fit Connect Platform Web App. Features / strategies employed by marketing such as, but not limited to, a clear purpose, modern UX/UI, and a strong call to action leading up to the main application. As for technical features, it should aim for a responsive design and fast loading speed, and if possible, analytics 
+This page serves as a landing page for Manoa Fit Connect Platform Web App. Features / strategies employed by marketing such as, but not limited to, a clear purpose, modern UX/UI, and a strong call to action leading up to the main application. As for technical features, it should aim for a responsive design and fast loading speed, and if possible, analytics.
 
 ### About Page
 ### Sign Up Page
+
+This page serves to register a new user to Manoa Fit Connect. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
+
 ### Login Page
 
-This page serves as a bridge towards the main application, which connects the user with their personal data tailored to our web application. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session
+This page serves as a bridge towards the main application, which connects the user with their personal data tailored to our web application. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
 
 ### User Profile Page
+
+This page allows a user to customize their profile. The customizable fields include: profile image, first name, last name, age, gender, level, role, style, goals, availability, hobbies/sports, major, and a custom description. The idea behind the custom description field is to allow the user to add additional details to their profile, such as their routine, personal records, or diet. It is not required to customize the fields, but it will possibly allow for your profile to be searchable or filterable for other users looking to connect with a fitness buddy.
+
 ### Friends Page
 
-This page serves as a hub for our audience to connect and share with like-minded individuals, fitness enthusiasts, to come together to inspire, motivate, and support each other in their pursuit of their personal health and body goals. The many plausible features should give users a quality social experience, such as, but not limiting too, workout buddy system, fitness goals / sharing, and friends management
+This page serves as a hub for our audience to connect and share with like-minded individuals, fitness enthusiasts, to come together to inspire, motivate, and support each other in their pursuit of their personal health and body goals. The many plausible features should give users a quality social experience, such as, but not limiting too, workout buddy system, fitness goals / sharing, and friends management.
 
 ### Equipment Page
 
