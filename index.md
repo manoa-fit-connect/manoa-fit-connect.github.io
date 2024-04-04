@@ -99,6 +99,8 @@ This page will allow users to log workouts and give a rating to them. Each worko
 
 ### Events Page
 
+For the events page, this page will be an online calendar that will showcase the events that we'll be hosting as well as allowing people to hold their own events, such as people wanting to work together, or a gym buddy able to teach a group.
+
 ## Developer Guide
 
 First you will need install <a href = "https://www.meteor.com/install">Meteor</a>. 
