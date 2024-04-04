@@ -1,8 +1,8 @@
-<h1 align="center">Manoa Fit Connect</h1>
-<p align="center"><img src="./images/MFClogo.png" width="100px"></p><br><br>
+<h1 align="center" style="font-size: 28px;">Manoa Fit Connect</h1>
+<p align="center"><img src="./images/logo.png" width="100px" style="float: right;"></p><br><br>
 
 
-##Table of contents
+## Table of contents
 * [Overview](#overview)
 * [Team](#team)
 * [User Guide](#user-guide)
@@ -20,6 +20,41 @@ Our Solution:
 On our app Manoa Fit Connect, we're all about making fitness fun, accessible, and supportive for every student. We've created a platform that connects you with gym buddies and provides the knowledge you need to feel confident in the gym environment.
 
 
-## Team
+## Team Members
 
-Members of the team are: 
+### Hayden Bireley
+<p align="center"><img src="./images/hayden.jpg" height="250" width="250" alt = ""></p>
+I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application. 
+
+### Jerald Cascayan
+<p align="center"><img src="./images/jerald.jpg" height="250" width="250" alt = ""></p>
+I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
+
+### Sidney Gills
+<p align="center"><img src="./images/sidney.jpg" height="250" width="250" alt = ""></p>
+I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
+
+### Brandon Tabios
+<p align="center"><img src="./images/brandon.jpg" height="250" width="250" alt = ""></p>
+I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
+
+### Victoria Valverde
+<p align="center"><img src="./images/victoria.jpg" height="250" width="250" alt = ""></p>
+I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
+
+## User Guide
+
+### Landing Page
+### About Page
+### Sign Up Page
+### Login Page
+### User Profile Page
+### Friends Page
+### Equipment Page
+### Favorite Workout Page
+### Progress Tracker PAge
+### Events Page
+
+## Developer Guide
+
+## Milestone 1
