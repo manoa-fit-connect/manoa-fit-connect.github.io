@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 28px;">Manoa Fit Connect</h1>
-<p align="center"><img src="./images/logo.png" width="100px" style="float: right;"></p><br><br>
+<p align="center"><img src="./images/MFClogo.png" width="100px" style="float: right;"></p><br><br>
 
 
 ## Table of contents
@@ -23,24 +23,25 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 ## Team Members
 
 ### Hayden Bireley
-<p align="center"><img src="./images/hayden.jpg" height="250" width="250" alt = ""></p>
+<p align="center"><img src="./images/hayden.png" height="250" width="250" alt = ""></p>
 I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application. 
 
 ### Jerald Cascayan
-<p align="center"><img src="./images/jerald.jpg" height="250" width="250" alt = ""></p>
-I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
+<p align="center"><img src="./images/jerald.png" height="250" width="250" alt = ""></p>
+I am currently an undergrad senior @ UH MANOA. I am pursuing a B.Sc in Computer Sciences, and have experience in Software Engineering in Industry (startups), TA @ AI4ALL, and volunteer teaching research @ SCIMI. Currently interested in game development such as Gameplay Engineering and Game Engine Development. Looking forward for the epic coding collab sessions!
+
 
 ### Sidney Gills
-<p align="center"><img src="./images/sidney.jpg" height="250" width="250" alt = ""></p>
-I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
-
+<p align="center"><img src="./images/placeholder.png" height="250" width="250" alt = ""></p>
+I <3 ICS!!!!!!
+  
 ### Brandon Tabios
-<p align="center"><img src="./images/brandon.jpg" height="250" width="250" alt = ""></p>
-I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
+<p align="center"><img src="./images/brandon.png" height="250" width="250" alt = ""></p>
+I am a Junior at UH Manoa, double majoring in both Computer Science and German. I have experience doing many team based activities and working on many different projects. I am excited to learn more, and use what I learn into my future career. 
 
 ### Victoria Valverde
-<p align="center"><img src="./images/victoria.jpg" height="250" width="250" alt = ""></p>
-I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.  
+<p align="center"><img src="./images/victoria.png" height="250" width="250" alt = ""></p>
+I am currently a Junior at UH Manoa, studying for a BS in Computer Science. I have experience working on large scale projects for other fields of work but not for designing a website with a team. I’m looking forward to applying the skills I've learned to help develop this project as a collaborative effort.
 
 ## User Guide
 
