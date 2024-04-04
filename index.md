@@ -1,6 +1,7 @@
 <h1 align="center" style="font-size: 28px;">Manoa Fit Connect</h1>
-<p align="center"><img src="./images/MFClogo.png" width="100px" style="float: right;"></p><br><br>
-
+<div align="center">
+    <img src="./images/MFClogo.png" width="150px" style="display: block;">
+</div>
 
 ## Table of contents
 * [Overview](#overview)
@@ -116,9 +117,12 @@ After modifying the code to your liking you may check for errors by running:
 $ meteor npm run lint
 `
 
-## Milestone 1: Mockup development
-The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system.
+## Milestone 1 
+
+### Page Development 
+
+The goal of Milestone 1 is to create a mockup of the pages in the system. Below is the ToDo list for the team with each person assigned to two issues. The goal is create basic functionality, a landing page, four other pages, and the sytem is deployed to Digital Ocean.
 
 
-![](images/todosm1.png)
+![](images/m1todo.png)
 
