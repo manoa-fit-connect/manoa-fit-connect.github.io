@@ -78,7 +78,7 @@ This page serves as a hub for our audience to connect and share with like-minded
 
 First you will need install <a href = "https://www.meteor.com/install">Meteor</a>. 
 Second you will need to install <a href = "https://nodejs.org/en/download/">Node.js</a>. 
-Third go to the our <a href = "https://github.com/manoafitnessfinder/app">github</a> and download it as a template. Fourth copy it to your local machine by clicking "Clone or Download". 
+Third go to the our <a href = "https://github.com/manoa-fit-connect/manoa-fit-connect-app">github</a> and download it as a template. Fourth, cd into the /app directory and install the following:
 
 Now cd into the app directory of the local your local copy and perform:
 
