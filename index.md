@@ -129,7 +129,7 @@ $ meteor npm run lint
 
 ## Milestone 1 
 
-### Page Development 
+### Page Development [(M1)](https://github.com/orgs/manoa-fit-connect/projects/3)
 
 The goal of Milestone 1 is to create a mockup of the pages in the system. Below is the ToDo list for the team with each person assigned to two issues. The goal is create basic functionality, a landing page, four other pages, and the sytem is deployed to Digital Ocean.
 
