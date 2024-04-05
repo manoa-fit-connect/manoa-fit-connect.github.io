@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 28px;">Manoa Fit Connect</h1>
 <div align="center">
-    <img src="./images/homelogo.png" width="200px" style="display: block;">
+    <img src="./images/homelogo.png" width="300px" style="display: block;">
 </div>
 
 ## Table of contents
