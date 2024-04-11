@@ -132,6 +132,7 @@ $ meteor npm run lint
 ## Deployment
 
 Deployment Application Link : [http://64.23.246.58/](http://64.23.246.58/)
+
 Manoa Fit Connect is live! Check it out at [http://64.23.246.58/](http://64.23.246.58/). Our application is hosted on a Digital Ocean Droplet, ensuring reliable and efficient performance for our users.
 
 
