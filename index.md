@@ -8,7 +8,9 @@
 * [Team Members](#team-members)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
+* [Milestone 2](#milestone-2)
 
 ## Overview
 
@@ -80,7 +82,7 @@ This page serves as a hub for our audience to connect and share with like-minded
 
 ### Equipment Page
 
-This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment.  
+This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment.
 ![](images/equipment1.png)
 
 Once a user selects an option they are brought to its webpage with all equipment offered and the option to search for a specific piece of equipment.
@@ -91,11 +93,11 @@ Each piece of equipment has a link to its location on the gym map and a list of 
 
 ### Favorite Workout Page
 
-The Favorite Workout Page serves as a personalized hub for users to curate and organize their preferred exercises and routines. With a simple click, users can seamlessly add favorite routines or equipment to their workout folder, streamlining the process of building and maintaining their ideal fitness regimen. 
+The Favorite Workout Page serves as a personalized hub for users to curate and organize their preferred exercises and routines. With a simple click, users can seamlessly add favorite routines or equipment to their workout folder, streamlining the process of building and maintaining their ideal fitness regimen.
 
 ### Progress Tracker Page
 
-This page will allow users to log workouts and give a rating to them. Each workout will have a category (weight training, cardio, wellness, or other), how long you work out for, how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.        
+This page will allow users to log workouts and give a rating to them. Each workout will have a category (weight training, cardio, wellness, or other), how long you work out for, how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.
 
 ### Events Page
 
@@ -103,8 +105,8 @@ For the events page, this page will be an online calendar that will showcase the
 
 ## Developer Guide
 
-First you will need install <a href = "https://www.meteor.com/install">Meteor</a>. 
-Second you will need to install <a href = "https://nodejs.org/en/download/">Node.js</a>. 
+First you will need install <a href = "https://www.meteor.com/install">Meteor</a>.
+Second you will need to install <a href = "https://nodejs.org/en/download/">Node.js</a>.
 Third go to the our <a href = "https://github.com/manoa-fit-connect/manoa-fit-connect-app">github</a> and download it as a template. Fourth, cd into the /app directory and install the following:
 
 Now cd into the app directory of the local your local copy and perform:
@@ -119,7 +121,7 @@ Followed by:
 $ meteor npm run start
 ```
 
-Now you have a local instance running at [http://localhost:3000](http://localhost:3000)! 
+Now you have a local instance running at [http://localhost:3000](http://localhost:3000)!
 
 After modifying the code to your liking you may check for errors by running:
 
@@ -127,12 +129,23 @@ After modifying the code to your liking you may check for errors by running:
 $ meteor npm run lint
 `
 
-## Milestone 1 
+## Developer Guide
 
-### Page Development 
+Deployment Application Link : [http://64.23.246.58/](http://64.23.246.58/)
+Manoa Fit Connect is live! Check it out at [http://64.23.246.58/](http://64.23.246.58/). Our application is hosted on a Digital Ocean Droplet, ensuring reliable and efficient performance for our users.
+
+
+## Milestone 1
+
+### Page Development
 
 [M1](https://github.com/orgs/manoa-fit-connect/projects/3): The goal of Milestone 1 is to create a mockup of the pages in the system. Below is the ToDo list for the team with each person assigned to two issues. The goal is create basic functionality, a landing page, four other pages, and the sytem is deployed to Digital Ocean.
 
 
 ![](images/m1todo.png)
 
+## Milestone 2
+
+### Page Development
+
+[M2](https://github.com/orgs/manoa-fit-connect/projects/4): The goal of Milestone 2 is to further develop and refine the pages within the system. Any tasks from Milestone 1 that have not been completed will be carried over to Milestone 2. This phase focuses on enhancing functionality, improving user interaction, and ensuring a seamless integration of all components. The team is assigned tasks as per the updated ToDo list to achieve these objectives. Additionally, the system is continually deployed and updated on Digital Ocean.
