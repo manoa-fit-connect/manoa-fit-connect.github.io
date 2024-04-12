@@ -10,8 +10,8 @@
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
-* [Milestone 1 Links](#links)
 * [Milestone 2](#milestone-2)
+* [Links](#links)
 
 ## Overview
 
@@ -166,12 +166,6 @@ Manoa Fit Connect is live! Check it out at [http://64.23.246.58/](http://64.23.2
 
 [M1](https://github.com/orgs/manoa-fit-connect/projects/3): The goal of Milestone 1 is to create a mockup of the pages in the system. Below is the ToDo list for the team with each person assigned to two issues. The goal is create basic functionality, a landing page, four other pages, and the sytem is deployed to Digital Ocean.
 
-## Links
-
-[Github Profile](https://github.com/manoa-fit-connect)
-[Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
-[Digital Ocean Link](http://64.23.246.58)
-
 
 ## Milestone 2
 
@@ -180,3 +174,9 @@ Manoa Fit Connect is live! Check it out at [http://64.23.246.58/](http://64.23.2
 ### Page Development
 
 [M2](https://github.com/orgs/manoa-fit-connect/projects/4): The goal of Milestone 2 is to further develop and refine the pages within the system. Any tasks from Milestone 1 that have not been completed will be carried over to Milestone 2. This phase focuses on enhancing functionality, improving user interaction, and ensuring a seamless integration of all components. The team is assigned tasks as per the updated ToDo list to achieve these objectives. Additionally, the system is continually deployed and updated on Digital Ocean.
+
+## Links
+
+[Github Profile](https://github.com/manoa-fit-connect)
+[Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
+[Digital Ocean Link](http://64.23.246.58)
