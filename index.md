@@ -4,6 +4,7 @@
 </div>
 
 ## Table of contents
+* [Links](#links)
 * [Overview](#overview)
 * [Team Members](#team-members)
 * [User Guide](#user-guide)
@@ -11,7 +12,15 @@
 * [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
-* [Links](#links)
+
+
+* ## Links
+
+[Github Profile](https://github.com/manoa-fit-connect)
+
+[Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
+
+[Digital Ocean Link](http://64.23.246.58) Please note this version does not yet reflect Equipment or Profile Pages.
 
 ## Overview
 
@@ -178,5 +187,7 @@ Please note this version of Digital Ocean does not yet reflect the Equipment or 
 ## Links
 
 [Github Profile](https://github.com/manoa-fit-connect)
+
 [Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
+
 [Digital Ocean Link](http://64.23.246.58)
