@@ -14,7 +14,7 @@
 * [Milestone 2](#milestone-2)
 
 
-* ## Links
+## Links
 
 [Github Profile](https://github.com/manoa-fit-connect)
 
