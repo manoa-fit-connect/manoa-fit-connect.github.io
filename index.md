@@ -10,6 +10,7 @@
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
+* [Milestone 1 Links](#links)
 * [Milestone 2](#milestone-2)
 
 ## Overview
@@ -24,7 +25,6 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 
 
 ## Team Members
-[Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
 
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
   <h3>Hayden Bireley</h3>
@@ -160,17 +160,22 @@ Manoa Fit Connect is live! Check it out at [http://64.23.246.58/](http://64.23.2
 
 ## Milestone 1
 
+![](images/endM1.jpg)
+
 ### Page Development
 
 [M1](https://github.com/orgs/manoa-fit-connect/projects/3): The goal of Milestone 1 is to create a mockup of the pages in the system. Below is the ToDo list for the team with each person assigned to two issues. The goal is create basic functionality, a landing page, four other pages, and the sytem is deployed to Digital Ocean.
 
+## Links
+
+[Github Profile](https://github.com/manoa-fit-connect)
+[Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
 [Digital Ocean Link](http://64.23.246.58)
 
 
-
-![](images/m1todo.png)
-
 ## Milestone 2
+
+![](images/startM2.jpg)
 
 ### Page Development
 
