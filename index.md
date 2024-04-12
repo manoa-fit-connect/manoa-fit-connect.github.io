@@ -96,8 +96,8 @@ Each piece of equipment has a link to its location on the gym map and a list of 
 The Favorite Workout Page serves as a personalized hub for users to curate and organize their preferred exercises and routines. With a simple click, users can seamlessly add favorite routines or equipment to their workout folder, streamlining the process of building and maintaining their ideal fitness regimen.
 
 ### Progress Tracker Page
-
-This page will allow users to log workouts and give a rating to them. Each workout will have a category (weight training, cardio, wellness, or other), how long you work out for, how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.
+![](images/ProgressTrackerPage.png)
+This page will allow users to log workouts and give a rating to them. Each workout will have a title, category (weight training, cardio, wellness, or other), how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.
 
 ### Events Page
 
