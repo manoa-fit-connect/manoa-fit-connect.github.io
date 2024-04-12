@@ -68,6 +68,8 @@ This page serves as a landing page for Manoa Fit Connect Platform Web App. Featu
 
 ![](images/aboutM1.jpg)
 
+This page will serve to introduce the users to the team behind the app. In the future this page will also include directions on how to navigate our website and contact info for user assistance.
+
 ### Sign Up Page
 
 ![](images/signupM1.jpg)
@@ -108,7 +110,7 @@ The Favorite Workout Page serves as a personalized hub for users to curate and o
 
 ### Progress Tracker Page
 
-![](images/highlight.jpg)
+![](images/highlightM1.jpg)
 
 This page will allow users to log workouts and give a rating to them. Each workout will have a title, category (weight training, cardio, wellness, or other), how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.
 
