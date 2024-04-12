@@ -60,63 +60,63 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 
 ### Landing Page
 
-![](images/landingM1.jpeg)
+![](images/landingM1.jpg)
 
 This page serves as a landing page for Manoa Fit Connect Platform Web App. Features / strategies employed by marketing such as, but not limited to, a clear purpose, modern UX/UI, and a strong call to action leading up to the main application. As for technical features, it should aim for a responsive design and fast loading speed, and if possible, analytics.
 
 ### About Page
 
-![](images/aboutM1.jpeg)
+![](images/aboutM1.jpg)
 
 ### Sign Up Page
 
-![](images/signupM1.jpeg)
+![](images/signupM1.jpg)
 
 This page serves to register a new user to Manoa Fit Connect. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
 
 ### Login Page
 
-![](images/loginM1.jpeg)
+![](images/loginM1.jpg)
 
 This page serves as a bridge towards the main application, which connects the user with their personal data tailored to our web application. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
 
 ### User Profile Page
 
-![](images/profileM1.jpeg)
+![](images/profileM1.jpg)
 
 This page allows a user to customize their profile. The customizable fields include: profile image, first name, last name, age, gender, level, role, style, goals, availability, hobbies/sports, major, and a custom description. The idea behind the custom description field is to allow the user to add additional details to their profile, such as their routine, personal records, or diet. It is not required to customize the fields, but it will possibly allow for your profile to be searchable or filterable for other users looking to connect with a fitness buddy.
 
 ### Friends Page
 
-![](images/friendsM1.jpeg)
+![](images/friendsM1.jpg)
 
 This page serves as a hub for our audience to connect and share with like-minded individuals, fitness enthusiasts, to come together to inspire, motivate, and support each other in their pursuit of their personal health and body goals. The many plausible features should give users a quality social experience, such as, but not limiting too, workout buddy system, fitness goals / sharing, and friends management.
 
 ### Equipment Page
 
-![](images/equipmentM1.jpeg)
+![](images/equipmentM1.jpg)
 
 This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment. Once a user selects an option they are brought to its webpage with all equipment offered and the option to search for a specific piece of equipment. Each piece of equipment has a link to its location on the gym map and a list of exercises that can be done with it. Users can add the equipment to their workout for their favorite workouts page.
 
 ### Favorite Workout Page
 
-![](images/favoriteM1.jpeg)
+![](images/favoriteM1.jpg)
 
 The Favorite Workout Page serves as a personalized hub for users to curate and organize their preferred exercises and routines. With a simple click, users can seamlessly add favorite routines or equipment to their workout folder, streamlining the process of building and maintaining their ideal fitness regimen.
 
 ### Progress Tracker Page
 
-![](images/highlight.jpeg)
+![](images/highlight.jpg)
 
 This page will allow users to log workouts and give a rating to them. Each workout will have a title, category (weight training, cardio, wellness, or other), how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.
 
 ### Events Page
-![](images/eventM1.jpeg)
+![](images/eventM1.jpg)
 For the events page, this page will be an online calendar that will showcase the events that we'll be hosting as well as allowing people to hold their own events, such as people wanting to work together, or a gym buddy able to teach a group.
 
 ### Admin View
 
-![](images/adminM1.jpeg)
+![](images/adminM1.jpg)
 
 This is the admin landing page. In the future we hope to implement features for the website administrator to be able to edit default and user entered data.
 
