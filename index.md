@@ -21,7 +21,9 @@
 [Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
 
 [Digital Ocean Link](http://64.23.246.58) Please note this version does not yet reflect Equipment or Profile Pages.
+
 [M1](https://github.com/orgs/manoa-fit-connect/projects/3)
+
 [M2](https://github.com/orgs/manoa-fit-connect/projects/4)
 
 ## Overview
