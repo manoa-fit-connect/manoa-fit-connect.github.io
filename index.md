@@ -5,12 +5,12 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Team Members](#team-members)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
+* [Team Members](#team-members)
 
 [Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
 
@@ -23,39 +23,6 @@ For many UHM students the gym can seem like an intimidating place and going alon
 Our Solution:
 
 On our app Manoa Fit Connect, we're all about making fitness fun, accessible, and supportive for every student. We've created a platform that connects you with gym buddies and provides the knowledge you need to feel confident in the gym environment.
-
-
-## Team Members
-
-<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
-  <h3>Hayden Bireley</h3>
-  <p align="center"><img src="./images/hayden.png" height="250" width="250" alt = ""></p>
-  <p>I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.</p>
-</div>
-
-<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
-  <h3>Jerald Cascayan</h3>
-  <p align="center"><img src="./images/jerald.png" height="250" width="250" alt = ""></p>
-  <p>I am currently an undergrad senior @ UH MANOA. I am pursuing a B.Sc in Computer Sciences, and have experience in Software Engineering in Industry (startups), TA @ AI4ALL, and volunteer teaching research @ SCIMI. Currently interested in game development such as Gameplay Engineering and Game Engine Development. Looking forward for the epic coding collab sessions!</p>
-</div>
-
-<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
-  <h3>Sidney Gills</h3>
-  <p align="center"><img src="./images/sidney.png" height="250" width="250" alt = ""></p>
-  <p>I'm currently a junior majoring in Computer Science at UH Manoa. My experience includes small, individual-based projects and I'm excited to apply what I've learned towards this team-based application.</p>
-</div>
-
-<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
-  <h3>Brandon Tabios</h3>
-  <p align="center"><img src="./images/brandon.png" height="250" width="250" alt = ""></p>
-  <p>I am a Junior at UH Manoa, double majoring in both Computer Science and German. I have experience doing many team based activities and working on many different projects. I am excited to learn more, and use what I learn into my future career.</p>
-</div>
-
-<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
-  <h3>Victoria Valverde</h3>
-  <p align="center"><img src="./images/victoria.png" height="250" width="250" alt = ""></p>
-  <p>I am currently a Junior at UH Manoa, studying for a BS in Computer Science. I have experience working on large scale projects for other fields of work but not for designing a website with a team. I’m looking forward to applying the skills I've learned to help develop this project as a collaborative effort.</p>
-</div>
 
 ## User Guide
 
@@ -178,4 +145,36 @@ Please note this version of Digital Ocean does not yet reflect the Equipment or 
 ### Page Development
 
 [M2](https://github.com/orgs/manoa-fit-connect/projects/4): The goal of Milestone 2 is to further develop and refine the pages within the system. Any tasks from Milestone 1 that have not been completed will be carried over to Milestone 2. This phase focuses on enhancing functionality, improving user interaction, and ensuring a seamless integration of all components. The team is assigned tasks as per the updated ToDo list to achieve these objectives. Additionally, the system is continually deployed and updated on Digital Ocean.
+
+## Team Members
+
+<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
+  <h3>Hayden Bireley</h3>
+  <p align="center"><img src="./images/hayden.png" height="250" width="250" alt = ""></p>
+  <p>I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.</p>
+</div>
+
+<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
+  <h3>Jerald Cascayan</h3>
+  <p align="center"><img src="./images/jerald.png" height="250" width="250" alt = ""></p>
+  <p>I am currently an undergrad senior @ UH MANOA. I am pursuing a B.Sc in Computer Sciences, and have experience in Software Engineering in Industry (startups), TA @ AI4ALL, and volunteer teaching research @ SCIMI. Currently interested in game development such as Gameplay Engineering and Game Engine Development. Looking forward for the epic coding collab sessions!</p>
+</div>
+
+<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
+  <h3>Sidney Gills</h3>
+  <p align="center"><img src="./images/sidney.png" height="250" width="250" alt = ""></p>
+  <p>I'm currently a junior majoring in Computer Science at UH Manoa. My experience includes small, individual-based projects and I'm excited to apply what I've learned towards this team-based application.</p>
+</div>
+
+<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
+  <h3>Brandon Tabios</h3>
+  <p align="center"><img src="./images/brandon.png" height="250" width="250" alt = ""></p>
+  <p>I am a Junior at UH Manoa, double majoring in both Computer Science and German. I have experience doing many team based activities and working on many different projects. I am excited to learn more, and use what I learn into my future career.</p>
+</div>
+
+<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
+  <h3>Victoria Valverde</h3>
+  <p align="center"><img src="./images/victoria.png" height="250" width="250" alt = ""></p>
+  <p>I am currently a Junior at UH Manoa, studying for a BS in Computer Science. I have experience working on large scale projects for other fields of work but not for designing a website with a team. I’m looking forward to applying the skills I've learned to help develop this project as a collaborative effort.</p>
+</div>
 
