@@ -4,7 +4,6 @@
 </div>
 
 ## Table of contents
-* [Links](#links)
 * [Overview](#overview)
 * [Team Members](#team-members)
 * [User Guide](#user-guide)
@@ -13,18 +12,7 @@
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
 
-
-## Links
-
-[Github Profile](https://github.com/manoa-fit-connect)
-
 [Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
-
-[Digital Ocean Link](http://64.23.246.58) Please note this version does not yet reflect Equipment or Profile Pages.
-
-[M1](https://github.com/orgs/manoa-fit-connect/projects/3)
-
-[M2](https://github.com/orgs/manoa-fit-connect/projects/4)
 
 ## Overview
 
@@ -165,6 +153,9 @@ $ meteor npm run lint
 `
 
 ## Deployment
+
+[Digital Ocean Link](http://64.23.246.58) Please note this version does not yet reflect Equipment or Profile Pages.
+
 
 Manoa Fit Connect is live! Check it out at [http://64.23.246.58/](http://64.23.246.58/). Our application is hosted on a Digital Ocean Droplet, ensuring reliable and efficient performance for our users.
 
