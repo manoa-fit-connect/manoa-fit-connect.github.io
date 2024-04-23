@@ -10,6 +10,7 @@
 * [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
+* [Milestone 3](#milestone-3)
 * [Team Members](#team-members)
 
 [Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
@@ -145,7 +146,7 @@ Please note this version of Digital Ocean does not yet reflect the Equipment or 
 
 ## Milestone 2
 
-![](images/projectM2comp.png)
+![](images/M2final.png)
 
 ### Page Development
 
