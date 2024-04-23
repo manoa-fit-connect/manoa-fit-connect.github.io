@@ -66,15 +66,15 @@ This page serves as a hub for our audience to connect and share with like-minded
 
 ### Equipment Page
 
-![](images/equipmentM1.jpg)
+![](images/equipmentM2.png)
 
 This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment. Once a user selects an option they are brought to its webpage with all equipment offered and the option to search for a specific piece of equipment. Each piece of equipment has a link to its location on the gym map and a list of exercises that can be done with it. Users can add the equipment to their workout for their favorite workouts page.
 
-### Favorite Workout Page
+### Workout Generator Page
 
-![](images/favoriteM1.jpg)
+![](images/workoutgeneratorM2.png)
 
-The Favorite Workout Page serves as a personalized hub for users to curate and organize their preferred exercises and routines. With a simple click, users can seamlessly add favorite routines or equipment to their workout folder, streamlining the process of building and maintaining their ideal fitness regimen.
+The Workout Generator Page serves as a personalized hub for users to curate and organize their preferred exercises and routines. With a simple click, users can seamlessly add favorite routines or equipment to their workout folder, streamlining the process of building and maintaining their ideal fitness regimen.
 
 ### Progress Tracker Page
 
@@ -92,6 +92,11 @@ For the events page, this page will be an online calendar that will showcase the
 
 This is the admin landing page. In the future we hope to implement features for the website administrator to be able to edit default and user entered data.
 
+### Sign Out Page
+
+![](images/signoutM2.png)
+
+Once a user signs out they are greeted with the option to generate a goodbye from our team. The user is also able to return to our home page.
 
 ## Developer Guide
 
