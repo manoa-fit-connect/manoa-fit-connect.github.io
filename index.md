@@ -145,11 +145,19 @@ Please note this version of Digital Ocean does not yet reflect the Equipment or 
 
 ## Milestone 2
 
-![](images/startM2.jpg)
+![](images/projectM2comp.png)
 
 ### Page Development
 
 [M2](https://github.com/orgs/manoa-fit-connect/projects/4): The goal of Milestone 2 is to further develop and refine the pages within the system. Any tasks from Milestone 1 that have not been completed will be carried over to Milestone 2. This phase focuses on enhancing functionality, improving user interaction, and ensuring a seamless integration of all components. The team is assigned tasks as per the updated ToDo list to achieve these objectives. Additionally, the system is continually deployed and updated on Digital Ocean.
+
+## Milestone 3
+
+![](images/projectM3)
+
+### Page Development
+
+[M2](https://github.com/orgs/manoa-fit-connect/projects/6): The goal of Milestone 2 is to further develop and refine the pages within the system. Any tasks from Milestone 1 that have not been completed will be carried over to Milestone 2. This phase focuses on enhancing functionality, improving user interaction, and ensuring a seamless integration of all components. The team is assigned tasks as per the updated ToDo list to achieve these objectives. Additionally, the system is continually deployed and updated on Digital Ocean.
 
 ## Team Members
 
