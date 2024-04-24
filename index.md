@@ -127,12 +127,11 @@ $ meteor npm run lint
 
 ## Deployment
 
-[Digital Ocean Link](http://64.23.246.58) Please note this version does not yet reflect Equipment or Profile Pages.
+[Digital Ocean Link](https://manoafitconnect.com/)
 
+Manoa Fit Connect is live! Check it out at:  [https://manoafitconnect.com/](https://manoafitconnect.com/)
 
-Manoa Fit Connect is live! Check it out at [http://64.23.246.58/](http://64.23.246.58/). Our application is hosted on a Digital Ocean Droplet, ensuring reliable and efficient performance for our users.
-
-Please note this version of Digital Ocean does not yet reflect the Equipment or Profile pages.
+Our application is hosted on a Digital Ocean Droplet, ensuring reliable and efficient performance for our users!
 
 
 ## Milestone 1
@@ -191,4 +190,3 @@ Please note this version of Digital Ocean does not yet reflect the Equipment or 
   <p align="center"><img src="./images/victoria.png" height="250" width="250" alt = ""></p>
   <p>I am currently a Junior at UH Manoa, studying for a BS in Computer Science. I have experience working on large scale projects for other fields of work but not for designing a website with a team. I’m looking forward to applying the skills I've learned to help develop this project as a collaborative effort.</p>
 </div>
-
