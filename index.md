@@ -158,7 +158,7 @@ Please note this version of Digital Ocean does not yet reflect the Equipment or 
 
 ### Page Development
 
-[M2](https://github.com/orgs/manoa-fit-connect/projects/6): 
+[M3](https://github.com/orgs/manoa-fit-connect/projects/6): The goal of Milestone 3 is to significantly improve the functionality of the gym fitness app by incorporating real data and gathering feedback from the UH community. Tasks include adding a substantial amount of real workout routines, exercises, and other fitness-related content. For example, the app should include at least 50 real workout routines with accurate descriptions and images. Additionally, the team aims to find at least five UH community members (excluding ICS 314 students) to try out the app and provide feedback on its usability and effectiveness. These tasks will be organized and executed according to the updated ToDo list. Continuous deployment and updates on Digital Ocean will ensure the app's readiness for testing and further refinement.
 
 ## Team Members
 
