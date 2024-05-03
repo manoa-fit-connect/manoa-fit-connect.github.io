@@ -241,7 +241,7 @@ Our application is hosted on a Digital Ocean Droplet, ensuring reliable and effi
 
 ## Milestone 3
 
-![](images/projectM3.png)
+![](images/loading.jpeg)
 
 ### Page Development
 
