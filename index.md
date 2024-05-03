@@ -42,34 +42,32 @@ This page will serve to introduce the users to the team behind the app. In the f
 
 ### Sign Up Page
 
-![](images/signupM1.jpg)
+![](images/loading.jpeg)
 
 This page serves to register a new user to Manoa Fit Connect. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
 
 ### Login Page
 
-![](images/loginM1.jpg)
+![](images/loading.jpeg)
 
-![](images/landingM1.jpg)
 
 This page serves as a bridge towards the main application, which connects the user with their personal data tailored to our web application. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
 
 ### User Profile Page
 
-![](images/profileM1.jpg)
+![](images/loading.jpeg)
 
 This page allows a user to customize their profile. The customizable fields include: profile image, first name, last name, age, gender, level, role, style, goals, availability, hobbies/sports, major, and a custom description. The idea behind the custom description field is to allow the user to add additional details to their profile, such as their routine, personal records, or diet. It is not required to customize the fields, but it will possibly allow for your profile to be searchable or filterable for other users looking to connect with a fitness buddy.
 
-![](images/EditProfileM2.png)
+![](images/loading.jpeg)
 
 
 The profile customization page, as illustrated in the provided screenshot, presents a straightforward form where users can input and update their personal information. In this instance, we see a user named John Doe, a 20-year-old male who identifies as an intermediate-level fitness enthusiast. John's profile is tailored to reflect his specific interests and roles within the fitness community. His goals are centered around strength training, and his chosen style is powerlifting, indicating his focus on building muscular strength and power. This user can adjust his information as needed and our app will read and write this information
 
 
-
 ### Friends Page
 
-![](images/friendsM1.jpg)
+![](images/loading.jpeg)
 
 This page facilitates connection and sharing among users who are motivated to achieve personal health and body goals. The design allows users to see each other's preferred workouts, workout times, and fitness goals. The intention is to create a supportive and inspiring online environment where users can form connections, such as finding workout buddies, sharing fitness goals, and managing friendships within the community. Once the Workout Buddy System is implemented, which is a core feature meant to allow users to connect and "friend" one another, is integrated, users will likely be able to directly interact with the profiles shown, send friend requests, and align their workout schedules with one another. As of now, it faciliates dynamic pagination based on the amount of friends a user has and contains front-end mockup functionality of a user's friend list.
 
@@ -114,31 +112,34 @@ Whether you're aiming for a full-body burn or a targeted session, you'll find so
 
 ### Progress Tracker Page
 
-![](images/PRM2.png)
+![](images/loading.jpeg)
 
 This page will allow users to log workouts and give a rating to them. Each workout will have a title, category (weight training, cardio, wellness, or other), how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.
 
-![](images/EditPRPage.png)
+![](images/loading.jpeg)
 
 Within the Progress Tracker section of the platform, users are presented with a dedicated interface to edit their Personal Records (PRs), as seen in the screenshot. This functionality is essential for fitness enthusiasts who want to keep a precise log of their achievements and progress over time. The form provided is simple and efficient, allowing users to quickly input the exercise they've performed, in this case, a bench press, along with the weight lifted, here specified as 221 pounds. Users can also record the number of repetitions completed, which is indicated as 3 in this example.
 
-![](images/EditWorkoutM2.png)
+![](images/loading.jpeg)
+
 In the platform's Progress Tracker feature, the "Edit Workout" section allows users to meticulously document each workout session. The form shown in the screenshot invites users to detail various aspects of their workout, ensuring a comprehensive record that goes beyond basic logging. The form shown in the screenshot allows users to easily select a specific workout and modify for that specific session
 
 
 ### Events Page
-![](images/eventM1.jpg)
+
+![](images/loading.jpeg)
+
 For the events page, this page will be an online calendar that will showcase the events that we'll be hosting as well as allowing people to hold their own events, such as people wanting to work together, or a gym buddy able to teach a group.
 
 ### Admin View
 
-![](images/adminM1.jpg)
+![](images/loading.jpeg)
 
 This is the admin landing page. In the future we hope to implement features for the website administrator to be able to edit default and user entered data.
 
 ### Sign Out Page
 
-![](images/signoutM2.png)
+![](images/signoutfinal.png)
 
 Once a user signs out they are greeted with the option to generate a goodbye from our team. The user is also able to return to our home page.
 
