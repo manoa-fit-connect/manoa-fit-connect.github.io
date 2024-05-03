@@ -38,7 +38,7 @@ This page serves as a landing page for Manoa Fit Connect Platform Web App. Featu
 
 ![](images/about.png)
 
-This page will serve to introduce the users to the team behind the app. In the future this page will also include directions on how to navigate our website and contact info for user assistance.
+This page will serve to introduce the users to the team behind the app. In the future this page will also include directions on how to navigate our website. Users are able to select this link at the footer of our website. This is also where they will find a link to the user guide.
 
 ### Sign Up Page
 
