@@ -190,14 +190,15 @@ Explore what our community has to say! Below, you'll find feedback straight from
   <h3>User 5- Devin Romero (Undergraduate Student at UHM)</h3>
   <p>
 Pros:
-1- I like the home page I know who you are and what you want to do.
-2) I like the user home the icons make it easy to find what I want.
-3)Progress tracker is good. I thought the quotes changing was a nice touch. 
-4)Equipment page is cool. I like the info about the page at the top.
-5)I like the workout page has alot of. examples and filter options. 
-6)Sign up was easy. 
-7)Signout was a fun touch would be cool if more buttons had some type of affect.
-
+<ul>
+<li> I like the home page I know who you are and what you want to do.</li>
+<li> I like the user home the icons make it easy to find what I want.</li>
+<li> Progress tracker is good. I thought the quotes changing was a nice touch. </li>
+<li> Equipment page is cool. I like the info about the page at the top.</li>
+<li> I like the workout page has alot of. examples and filter options. </li>
+<li> Sign up was easy. </li>
+<li> Signout was a fun touch would be cool if more buttons had some type of affect.</li>
+</ul>
 
 Cons:
 1)Would be nice to filter by difficulty rating for workouts. Or users can add to the workouts for other people too.
