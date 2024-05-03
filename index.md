@@ -30,7 +30,7 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 
 ### Landing Page
 
-![](images/homeM1.jpg)
+![](images/loading.jpeg)
 
 This page serves as a landing page for Manoa Fit Connect Platform Web App. Features / strategies employed by marketing such as, but not limited to, a clear purpose, modern UX/UI, and a strong call to action leading up to the main application. As for technical features, it should aim for a responsive design and fast loading speed, and if possible, analytics.
 
