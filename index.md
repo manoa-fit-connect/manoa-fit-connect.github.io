@@ -81,7 +81,7 @@ Welcome to our equipment page! Discover gym equipment categorized by type and lo
 
 Filter by Equipment Type: Choose from a variety of equipment types such as cardio machines, strength machines, free weights, and more. Learn how to use each type to maximize your workout.
 
-<img src="images/lecat1.png" alt="List of Equipment" width="300" height="200">
+<img src="images/lecat1.png" alt="List of Equipment" width="500" >
 
 Filter by Location: Select a specific area within the gym, like the cardio section, weightlifting area, or stretching zone. You'll find equipment located in that area along with instructions on how to use them.
 
@@ -93,16 +93,24 @@ With our detailed guides, you'll be well-informed on how to make the most of eac
 
 ### Workout Page
 
-![](images/workoutgeneratorM2.png)
+![](images/listworkout.png)
 
 Welcome to our workout page! Here, you'll find a variety of exercises ranked from 1 to 5 based on difficulty. Whether you're a beginner looking for a gentle start or a fitness enthusiast seeking a challenge, we've got you covered.
 
 You have two options for exploring our workouts:
 
 Filter by Time: You can filter workouts based on their estimated time to compleete. Choose from 16-60 minutes, so that you can squeeze in a workout for whatever time you have. Simply select your desired time to see a list of workouts matching your preference.
+
+<img src="images/lwcat2.png" alt="List of Workout" width="500" >
+
 Filter by Category: If you have a specific type of workout in mind, you can filter by category. We offer a range of categories such as cardio, strength training, flexability, and more. When you select a category, you'll see workouts tailored to that particular type of exercise.
+
+<img src="images/lwcat1.png" alt="List of Workout" width="500" >
+
 Random Workout: Feeling spontaneous? Click the "Random Workout" button to let fate decide your exercise routine for the day. If you're filtering by category, the random workout generator will select from within that category. Otherwise, it will pick from our entire range of workouts.
 Whether you're aiming for a full-body burn or a targeted session, you'll find something to suit your fitness goals here. Get ready to sweat, strengthen, and challenge yourself with our diverse selection of workouts!
+
+<img src="images/lwcat3.png" alt="List of Workout" width="500" >
 
 ### Progress Tracker Page
 
