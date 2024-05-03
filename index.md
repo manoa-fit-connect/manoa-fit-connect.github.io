@@ -77,7 +77,11 @@ This page facilitates connection and sharing among users who are motivated to ac
 
 ![](images/equipmentM2.png)
 
-This page allows a user to search or browse categories for equipment by strength, cardio, wellness or all equipment. Once a user selects an option they are brought to its webpage with all equipment offered and the option to search for a specific piece of equipment. Each piece of equipment has a link to its location on the gym map and a list of exercises that can be done with it. Users can add the equipment to their workout for their favorite workouts page.
+Welcome to our equipment page! Discover gym equipment categorized by type and location. Filter by equipment type or its location within the gym to learn how to use them effectively.
+
+Filter by Equipment Type: Choose from a variety of equipment types such as cardio machines, strength machines, free weights, and more. Learn how to use each type to maximize your workout.
+Filter by Location: Select a specific area within the gym, like the cardio section, weightlifting area, or stretching zone. You'll find equipment located in that area along with instructions on how to use them.
+With our detailed guides, you'll be well-informed on how to make the most of each piece of equipment. Get ready to elevate your workout experience!
 
 ### Workout Page
 
