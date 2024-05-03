@@ -187,8 +187,28 @@ Explore what our community has to say! Below, you'll find feedback straight from
   <h3>User 4</h3>
   <p>Thoughts and Prayers-Tabios</p>
 
-  <h3>User 5</h3>
-  <p>Thoughts and Prayers-Valverde</p>
+  <h3>User 5- Devin Romero (Undergraduate Student at UHM)</h3>
+  <p>
+Pros:
+1)I like the home page I know who you are and what you want to do.
+2)I like the user home the icons make it easy to find what I want.
+3)Progress tracker is good. I thought the quotes changing was a nice touch. 
+4)Equipment page is cool. I like the info about the page at the top.
+5)I like the workout page has alot of. examples and filter options. 
+6)Sign up was easy. 
+7)Signout was a fun touch would be cool if more buttons had some type of affect.
+
+
+Cons:
+1)Would be nice to filter by difficulty rating for workouts. Or users can add to the workouts for other people too.
+2)Profile feels a bit plain it is all pushed to one corner?
+3)Friends page is all AI generated? Cant see other people using the 
+app. 
+4)Could possibly add more available equipment.
+5)Events is not on the top with the other links only on home page? This is kind of plain and then it only is asking for a a title and not a description of my actual event. Is it possible to make this look like a actual calendar?And then when i logged out the event deleted and when we used another tester profile the event did not show up for them?
+
+Thoughts:
+Over all its a nice website. There are alot of cool features. I think the look of everything is pretty cool for the initial homepage. Some of the pages are lacking in completeness? If the purpose is to connect people to real people then I should be able to see other students. I think the progress tracker does good on saving a users info and equipment and workouts does good on providing information.</p>
   
 </div>
 
