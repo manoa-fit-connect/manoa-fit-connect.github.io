@@ -7,6 +7,7 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 * [Deployment](#deployment)
 * [Milestone 1](#milestone-1)
 * [Milestone 2](#milestone-2)
@@ -139,6 +140,29 @@ After modifying the code to your liking you may check for errors by running:
 `
 $ meteor npm run lint
 `
+
+## Community Feedback
+
+Explore what our community has to say! Below, you'll find feedback straight from our users. We value your input, and this is where we showcase the ideas, suggestions, and comments that have helped shape our app. Dive in and see how your fellow users are contributing to making our platform even better.
+
+<div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
+  
+  <h3>User 1</h3>
+  <p>Thoughts and Prayers-Hayden</p>
+
+  <h3>User 2</h3>
+  <p>Thoughts and Prayers-Jerald</p>
+
+  <h3>User 3</h3>
+  <p>Thoughts and Prayers-Sidney</p>
+
+  <h3>User 4</h3>
+  <p>Thoughts and Prayers-Tabios</p>
+
+  <h3>User 5</h3>
+  <p>Thoughts and Prayers-Valverde</p>
+  
+</div>
 
 ## Deployment
 
