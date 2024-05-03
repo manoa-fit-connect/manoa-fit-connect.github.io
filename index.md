@@ -190,8 +190,8 @@ Explore what our community has to say! Below, you'll find feedback straight from
   <h3>User 5- Devin Romero (Undergraduate Student at UHM)</h3>
   <p>
 Pros:
-1)I like the home page I know who you are and what you want to do.
-2)I like the user home the icons make it easy to find what I want.
+1- I like the home page I know who you are and what you want to do.
+2) I like the user home the icons make it easy to find what I want.
 3)Progress tracker is good. I thought the quotes changing was a nice touch. 
 4)Equipment page is cool. I like the info about the page at the top.
 5)I like the workout page has alot of. examples and filter options. 
