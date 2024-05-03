@@ -85,11 +85,11 @@ Filter by Equipment Type: Choose from a variety of equipment types such as cardi
 
 Filter by Location: Select a specific area within the gym, like the cardio section, weightlifting area, or stretching zone. You'll find equipment located in that area along with instructions on how to use them.
 
-<img src="images/lecat2.png" alt="List of Equipment" width="300" height="200">
+<img src="images/lecat2.png" alt="List of Equipment" width="500" >
 
 With our detailed guides, you'll be well-informed on how to make the most of each piece of equipment. Get ready to elevate your workout experience!
 
-<img src="images/equip.png" alt="List of Equipment" width="300" height="200">
+<img src="images/equip.png" alt="List of Equipment" width="500" >
 
 ### Workout Page
 
