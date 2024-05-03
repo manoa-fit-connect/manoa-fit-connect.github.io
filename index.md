@@ -254,5 +254,11 @@ Our application is hosted on a Digital Ocean Droplet, ensuring reliable and effi
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
   <h3>Victoria Valverde</h3>
   <p align="center"><img src="./images/victoria.png" height="250" width="250" alt = ""></p>
-  <p>I am currently a Junior at UH Manoa, studying for a BS in Computer Science. I have experience working on large scale projects for other fields of work but not for designing a website with a team. I’m looking forward to applying the skills I've learned to help develop this project as a collaborative effort.</p>
+  <p>As a Junior at UH Manoa studying for a BS in Computer Science, I've had the opportunity to work on various projects, but none quite like this website development endeavor. Being in charge of creating the equipment and workout pages was both challenging and rewarding. It allowed me to dive into the design process, ensuring that users could easily access and understand our fitness resources.
+
+Alongside this, contributing to the user guide, initial calendar, and website style has been a valuable learning experience. Despite not having prior experience in designing websites with a team, I found immense enjoyment in the collaborative process. It was gratifying to see our ideas come to life and witness the project evolve from concept to completion.
+
+As I reflect on my role in this project, I've come to appreciate the importance of teamwork and effective communication. Each step of the design process presented its own set of challenges, but overcoming them together only strengthened our project and our bonds as a team.
+
+While my journey as a student will soon reach its culmination with graduation in Fall 2024, I'm proud of the skills I've developed and the contributions I've made to this project. Looking back, I can confidently say that I've enjoyed every moment of the design process and am eager to apply what I've learned to future endeavors.</p>
 </div>
