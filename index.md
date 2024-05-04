@@ -255,7 +255,11 @@ Our application is hosted on a Digital Ocean Droplet, ensuring reliable and effi
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
   <h3>Hayden Bireley</h3>
   <p align="center"><img src="./images/hayden.png" height="250" width="250" alt = ""></p>
-  <p>I am currently a Junior at UH Manoa, studying Computer Science. I have worked on independent projects but on a team making a website or application. I am looking forward to applying the skills I have learned in a team to make a good website or application.</p>
+  <p>I have worked on independent projects but this was my first time working as a team making a website or application.
+          I was in charge of the Progressive Tracker page and the user landing page. The making of those pages was challenging and rewarding at the same time. It allowed my to express my creative side as well as making it easy to use for users.
+          As a result of making this app, I learned the importance of teamwork and good communication with your teammate. Without it nothing would be do or done poorly and acceptable for the user.
+          Also I learned that you have to respect your team time and work around their blockers.
+          I am looking forward to applying the skills I have learned in this team to my next projects in the future. I have learned a lot of valuable skills in making this app.</p>
 </div>
 
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
