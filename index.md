@@ -15,10 +15,11 @@
 * [Team Members](#team-members)
 
 [Team Contract](https://docs.google.com/document/d/1DDRlp5vSKb_kA-4D7WwL9-4053rtcrNYaoZwi9vv1qU/)
-![ci-badge](https://github.com/manoa-fit-connect/manoa-fit-connect-app/workflows/Manoa-Fit-Connect/badge.svg)
-
 
 ## Overview
+![ci-badge](https://github.com/manoa-fit-connect/manoa-fit-connect-app/workflows/Manoa-Fit-Connect/badge.svg)
+
+For details, please see https://manoa-fit-connect.github.io/
 
 The Challenge:
 
