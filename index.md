@@ -130,7 +130,7 @@ In the platform's Progress Tracker feature, the "Edit Workout" section allows us
 
 ### Events Page
 
-![](images/loading.jpeg)
+![](images/Event_Page_1.png) ![](images/Event_Page_2.png) ![](images/Event_Page_3.png)
 
 For the events page, this page will be an online calendar that will showcase the events that we'll be hosting as well as allowing people to hold their own events, such as people wanting to work together, or a gym buddy able to teach a group.
 
