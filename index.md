@@ -130,9 +130,15 @@ In the platform's Progress Tracker feature, the "Edit Workout" section allows us
 
 ### Events Page
 
-![](images/Event_Page_1.png) ![](images/Event_Page_2.png) ![](images/Event_Page_3.png)
+![](images/Event_Page_1.png) 
+The Events Page is a page where users are able to see upcoming events listed by anyone in the community. This page allows users to see upcoming events, the date and time of the event, and where it will take place. The page also allows you to see events of a specific month, allowing you to see previous and upcoming events.
 
-For the events page, this page will be an online calendar that will showcase the events that we'll be hosting as well as allowing people to hold their own events, such as people wanting to work together, or a gym buddy able to teach a group.
+![](images/Event_Page_2.png)
+Any user is allowed to add their own events to the page, and add their own description of how the event would be. Users could then contact them for interest towards that event.
+
+![](images/Event_Page_3.png)
+Events are also displayed in the NavBar by seeing the bell icon. The icon indicates whether or not there is an event that is taking place within the current month and year. This selection also allows you to view the whole events page.
+
 
 ### Admin View
 
