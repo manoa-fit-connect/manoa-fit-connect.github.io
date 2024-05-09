@@ -187,8 +187,16 @@ Explore what our community has to say! Below, you'll find feedback straight from
 
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
 
-  <h3>User 1</h3>
+  <h3>User 1 - Zane (Undergraduate Student at UHM)</h3>
   <p>Thoughts and Prayers-Hayden</p>
+  <ul>
+      Pros 
+      <li>It allows for an easier way to meet new gym friends</li>
+      Cons
+      <li>Not everyone uses it so the pool might be a little small</li>
+       Things that could be added:
+      <li>maybe an improvement leaderboard so other people can share their lifts</li>
+  </ul>
 
   <h3>User 2 - PJ Espiritu (Undergraduate Student at UHM)</h3>
 
@@ -206,7 +214,7 @@ Explore what our community has to say! Below, you'll find feedback straight from
     <li>The friends feature seems limited, lacking interaction, which detracts from the community feel.</li>
     <li>the UI could be improved a little, with dark mode or modern color schemes.</li>
   </ul>
-
+  
   Thoughts:
   You definitely have the core features of the web app well-established. I love the concept of a social hub for gym goers like me, offering not only a platform to track personal fitness goals but also a space to connect with others who share similar fitness interests. I think the potential growth in here is the community-driven content for UH MANOA, offering students a sense of community and school spirit. Integrating a system where students can organize and promote their own events or share fitness tips and achievements could turn the app into an essential part of us, fostering a vibrant student-led culture centered around health and wellness, which is good factor for our academics goals.
 
