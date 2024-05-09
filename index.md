@@ -33,7 +33,7 @@ On our app Manoa Fit Connect, we're all about making fitness fun, accessible, an
 
 ### Landing Page
 
-![](images/loading.jpeg)
+![](images/landingPageM3.png)
 
 This page serves as a landing page for Manoa Fit Connect Platform Web App. Features / strategies employed by marketing such as, but not limited to, a clear purpose, modern UX/UI, and a strong call to action leading up to the main application. As for technical features, it should aim for a responsive design and fast loading speed, and if possible, analytics.
 
@@ -48,32 +48,29 @@ This page also include directions on how to navigate our website. Users are able
 
 ### Sign Up Page
 
-![](images/loading.jpeg)
+![](images/signupPageM3.png)
 
 This page serves to register a new user to Manoa Fit Connect. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
 
 ### Login Page
 
-![](images/loading.jpeg)
-
+![](images/signinPageM3.png)
 
 This page serves as a bridge towards the main application, which connects the user with their personal data tailored to our web application. It features a form that contains an input textbox for the user to enter their username / email / password, and a login button. As for technical features, the backend contains user authorization and input validation / sanitation to allow the user to enter their session.
 
 ### User Profile Page
 
-![](images/loading.jpeg)
+![](images/userprofilePageM3.png)
 
-This page allows a user to customize their profile. The customizable fields include: profile image, first name, last name, age, gender, level, role, style, goals, availability, hobbies/sports, major, and a custom description. The idea behind the custom description field is to allow the user to add additional details to their profile, such as their routine, personal records, or diet. It is not required to customize the fields, but it will possibly allow for your profile to be searchable or filterable for other users looking to connect with a fitness buddy.
+This page allows a user to view their profile. The customizable fields include: first name, last name, profile image, university status, proficiency level, fitness goals, and workout styles. Customizing the fields will allow for your profile to be searchable or filterable for other users looking to connect with a fitness buddy.
 
-![](images/loading.jpeg)
+![](images/userprofilePageM3.png)
 
-
-The profile customization page, as illustrated in the provided screenshot, presents a straightforward form where users can input and update their personal information. In this instance, we see a user named John Doe, a 20-year-old male who identifies as an intermediate-level fitness enthusiast. John's profile is tailored to reflect his specific interests and roles within the fitness community. His goals are centered around strength training, and his chosen style is powerlifting, indicating his focus on building muscular strength and power. This user can adjust his information as needed and our app will read and write this information
-
+The profile customization page, as illustrated in the provided screenshot, presents a straightforward form where users can input and update their personal information. In this instance, we see a user named John Doe, a 20-year-old male who identifies as an intermediate-level fitness enthusiast. John's profile is tailored to reflect his specific interests and roles within the fitness community. His goals are centered around strength training, and his chosen style is powerlifting, indicating his focus on building muscular strength and power. This user can adjust his information as needed and our app will read and write this information.
 
 ### Friends Page
 
-![](images/loading.jpeg)
+![](images/friendsPageM3.png)
 
 This page facilitates connection and sharing among users who are motivated to achieve personal health and body goals. The design allows users to see each other's preferred workouts, workout times, and fitness goals. The intention is to create a supportive and inspiring online environment where users can form connections, such as finding workout buddies, sharing fitness goals, and managing friendships within the community. Once the Workout Buddy System is implemented, which is a core feature meant to allow users to connect and "friend" one another, is integrated, users will likely be able to directly interact with the profiles shown, send friend requests, and align their workout schedules with one another. As of now, it faciliates dynamic pagination based on the amount of friends a user has and contains front-end mockup functionality of a user's friend list.
 
