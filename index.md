@@ -133,7 +133,7 @@ In the platform's Progress Tracker feature, the "Edit Workout" section allows us
 
 ### Events Page
 
-![](images/Event_Page_1.png) 
+![](images/Event_Page_1.png)
 The Events Page is a page where users are able to see upcoming events listed by anyone in the community. This page allows users to see upcoming events, the date and time of the event, and where it will take place. The page also allows you to see events of a specific month, allowing you to see previous and upcoming events.
 
 ![](images/Event_Page_2.png)
@@ -186,12 +186,31 @@ $ meteor npm run lint
 Explore what our community has to say! Below, you'll find feedback straight from our users. We value your input, and this is where we showcase the ideas, suggestions, and comments that have helped shape our app. Dive in and see how your fellow users are contributing to making our platform even better.
 
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
-  
+
   <h3>User 1</h3>
   <p>Thoughts and Prayers-Hayden</p>
 
-  <h3>User 2</h3>
-  <p>Thoughts and Prayers-Jerald</p>
+  <h3>User 2 - PJ Espiritu (Undergraduate Student at UHM)</h3>
+
+  Pros:
+  <ul>
+    <li>The registration process is straightforward and user-friendly.</li>
+    <li>I can already tell that this is a social hub that connects based on people's expertise. You're app directly tells what this is all about</li>
+    <li>The equipments page is extensive, offering a wide range of exercises and intuitive filtering capabilities.</li>
+    <li>I love the idea of motivational quotes when documenting progression, very mindful in our experience</li>
+  </ul>
+
+  Cons:
+  <ul>
+    <li>The profile page layout could be more dynamic, utilizing the space more effectively to avoid a cluttered appearance.</li>
+    <li>The friends feature seems limited, lacking interaction, which detracts from the community feel.</li>
+    <li>the UI could be improved a little, with dark mode or modern color schemes.</li>
+  </ul>
+
+  Thoughts:
+  You definitely have the core features of the web app well-established. I love the concept of a social hub for gym goers like me, offering not only a platform to track personal fitness goals but also a space to connect with others who share similar fitness interests. The think the potential growth in here is the community-driven content for UH MANOA, offering students a sense of community and school spirit. Integrating a system where students can organize and promote their own events or share fitness tips and achievements could turn the app into an essential part of us, fostering a vibrant student-led culture centered around health and wellness, which is good factor for our academics goals.
+
+
 
   <h3>User 3</h3>
   <p>Thoughts and Prayers-Sidney</p>
@@ -222,7 +241,7 @@ app. </li>
 </ul>
 Thoughts:
 Over all its a nice website. There are alot of cool features. I think the look of everything is pretty cool for the initial homepage. Some of the pages are lacking in completeness? If the purpose is to connect people to real people then I should be able to see other students. I think the progress tracker does good on saving a users info and equipment and workouts does good on providing information.</p>
-  
+
 </div>
 
 ## Deployment
