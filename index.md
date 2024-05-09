@@ -241,11 +241,9 @@ Things that could be added:
   
   Thoughts:
     The website felt professional to use and looked like a good functioning site. There wasn't much that I felt a website dedicating to connecting people in fitness really needed. However, I still think there are many things that could be improved upon. Some pages felt lacking such as the user profile or the friends page. If the app is dedicated towards users connecting, it doesn't feel very connecting towards others. I think the site does however have good features for someone trying to accomplish their own fitness goals
-  
-  <p>Thoughts and Prayers-Sidney</p>
 
   <h3>User 4</h3>
-  <p>Thoughts and Prayers-Tabios</p>
+  <p>Thoughts and Prayers-Sidney</p>
 
   <h3>User 5- Devin Romero (Undergraduate Student at UHM)</h3>
   <p>
