@@ -224,7 +224,24 @@ Things that could be added:
 
 
 
-  <h3>User 3</h3>
+  <h3>User 3 - Ahren Isaac Diaz (Undergraduate Student at UH West Oahu)</h3>
+    Pros:
+  <ul>
+    <li> The descriptions are clean and simple thats good.</li>
+    <li> Looks good to use and feels understandable to new users</li>
+    <li> I find it really easy to navigate the site.</li>
+  </ul>
+
+  Cons:
+  <ul>
+    <li> I think what could be added into the website is the social media of the warrior recreation center if they have. </li>
+    <li> It maybe needs a FAQ section on the website then answering. To introduce users to all the possibly features. </li>
+    <li> The user profile page felt lacking, I wish I could add so much more.</li>
+  </ul>
+  
+  Thoughts:
+    The website felt professional to use and looked like a good functioning site. There wasn't much that I felt a website dedicating to connecting people in fitness really needed. However, I still think there are many things that could be improved upon. Some pages felt lacking such as the user profile or the friends page. If the app is dedicated towards users connecting, it doesn't feel very connecting towards others. I think the site does however have good features for someone trying to accomplish their own fitness goals
+  
   <p>Thoughts and Prayers-Sidney</p>
 
   <h3>User 4</h3>
