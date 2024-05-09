@@ -139,13 +139,6 @@ Any user is allowed to add their own events to the page, and add their own descr
 ![](images/Event_Page_3.png)
 Events are also displayed in the NavBar by seeing the bell icon. The icon indicates whether or not there is an event that is taking place within the current month and year. This selection also allows you to view the whole events page.
 
-
-### Admin View
-
-![](images/loading.jpeg)
-
-This is the admin landing page. In the future we hope to implement features for the website administrator to be able to edit default and user entered data.
-
 ### Sign Out Page
 
 ![](images/signoutfinal.png)
