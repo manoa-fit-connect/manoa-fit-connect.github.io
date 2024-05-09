@@ -72,7 +72,13 @@ The profile customization page, as illustrated in the provided screenshot, prese
 
 ![](images/friendsPageM3.png)
 
-This page facilitates connection and sharing among users who are motivated to achieve personal health and body goals. The design allows users to see each other's preferred workouts, workout times, and fitness goals. The intention is to create a supportive and inspiring online environment where users can form connections, such as finding workout buddies, sharing fitness goals, and managing friendships within the community. Once the Workout Buddy System is implemented, which is a core feature meant to allow users to connect and "friend" one another, is integrated, users will likely be able to directly interact with the profiles shown, send friend requests, and align their workout schedules with one another. As of now, it faciliates dynamic pagination based on the amount of friends a user has and contains front-end mockup functionality of a user's friend list.
+This page facilitates connection and sharing among users who are motivated to achieve personal health and body goals. The design allows users to see each other's preferred workouts, workout times, and fitness goals. The intention is to create a supportive and inspiring online environment where users can form connections, such as finding workout buddies, sharing fitness goals, and managing friendships within the community. This faciliates dynamic pagination based on the amount of friends a user can have.
+
+### Workout Buddy System Page
+
+![](images/WorkoutM3.png)
+
+This page facilitates the Workout Buddy System, which is a core feature meant to allow users to connect and "friend" one another, is integrated, users are be able to directly interact with the profiles shown.
 
 ### Equipment Page
 
@@ -208,7 +214,7 @@ Things that could be added:
     <li>The friends feature seems limited, lacking interaction, which detracts from the community feel.</li>
     <li>the UI could be improved a little, with dark mode or modern color schemes.</li>
   </ul>
-  
+
   Thoughts:
   You definitely have the core features of the web app well-established. I love the concept of a social hub for gym goers like me, offering not only a platform to track personal fitness goals but also a space to connect with others who share similar fitness interests. I think the potential growth in here is the community-driven content for UH MANOA, offering students a sense of community and school spirit. Integrating a system where students can organize and promote their own events or share fitness tips and achievements could turn the app into an essential part of us, fostering a vibrant student-led culture centered around health and wellness, which is good factor for our academics goals.
 
@@ -228,7 +234,7 @@ Things that could be added:
     <li> It maybe needs a FAQ section on the website then answering to introduce users to all the possibly features. </li>
     <li> The user profile page felt lacking, I wish I could add so much more.</li>
   </ul>
-  
+
   Thoughts:
     The website felt professional to use and looked like a good functioning site. There wasn't much that I felt a website dedicating to connecting people in fitness really needed. However, I still think there are many things that could be improved upon. Some pages felt lacking such as the user profile or the friends page. If the app is dedicated towards users connecting, it doesn't feel very connecting towards others. I think the site does however have good features for someone trying to accomplish their own fitness goals
 
@@ -251,7 +257,7 @@ Things that could be added:
     <li>Workout page would be better if it had actual weight lifting exercises, and you could add them to your profile</li>
     <li>The design of the application and the fonts don't seem unified and are a little hard on the eyes (top menu and colors)</li>
   </ul>
-  
+
   Thoughts:
     It has a lot of nice ideas but it is too incomplete to use at the moment. If the ideas were fleshed out and there was more functionality implemented, then maybe I'd use it.
 
