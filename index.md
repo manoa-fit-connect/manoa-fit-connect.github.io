@@ -118,15 +118,15 @@ Whether you're aiming for a full-body burn or a targeted session, you'll find so
 
 ### Progress Tracker Page
 
-![](images/loading.jpe)
+![](images/ProgressTrackerPage.png)
 
 This page will allow users to log workouts and give a rating to them. Each workout will have a title, category (weight training, cardio, wellness, or other), how you would rate it from a scale 1 to 5, and also a rating on how difficult the workout was on the same scale 1 to 5. The page will also have a place to put your personal best that you are proud of and can be updated when you beat them. The personal best could be any lift or any workout. The personal best table will have what the personal best is and how reps or how long you did for.
 
-![](images/loading.jpeg)
+![](images/EditPRPage.png)
 
-Within the Progress Tracker section of the platform, users are presented with a dedicated interface to edit their Personal Records (PRs), as seen in the screenshot. This functionality is essential for fitness enthusiasts who want to keep a precise log of their achievements and progress over time. The form provided is simple and efficient, allowing users to quickly input the exercise they've performed, in this case, a bench press, along with the weight lifted, here specified as 221 pounds. Users can also record the number of repetitions completed, which is indicated as 3 in this example.
+Within the Progress Tracker section of the platform, users are presented with a dedicated interface to edit their Personal Records (PRs), as seen in the screenshot. This functionality is essential for fitness enthusiasts who want to keep a precise log of their achievements and progress over time. The form provided is simple and efficient, allowing users to quickly input the exercise they've performed, in this case, a bench press, along with the weight lifted, here specified as 220 pounds. Users can also record the number of repetitions completed, which is indicated as 3 in this example.
 
-![](images/loading.jpeg)
+![](images/EditWorkoutPage.png)
 
 In the platform's Progress Tracker feature, the "Edit Workout" section allows users to meticulously document each workout session. The form shown in the screenshot invites users to detail various aspects of their workout, ensuring a comprehensive record that goes beyond basic logging. The form shown in the screenshot allows users to easily select a specific workout and modify for that specific session
 
