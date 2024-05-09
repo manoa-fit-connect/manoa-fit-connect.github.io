@@ -242,8 +242,27 @@ Things that could be added:
   Thoughts:
     The website felt professional to use and looked like a good functioning site. There wasn't much that I felt a website dedicating to connecting people in fitness really needed. However, I still think there are many things that could be improved upon. Some pages felt lacking such as the user profile or the friends page. If the app is dedicated towards users connecting, it doesn't feel very connecting towards others. I think the site does however have good features for someone trying to accomplish their own fitness goals
 
-  <h3>User 4</h3>
-  <p>Thoughts and Prayers-Sidney</p>
+  <h3>User 4 - Kacie (Undergraduate Student at UHM)</h3>
+    Pros:
+  <ul>
+    <li>It has a lot of potential and great ideas</li>
+    <li>Workout Buddy, Friends, and Progress Tracker look like neat features</li>
+  </ul>
+
+  Cons:
+  <ul>
+    <li>Unfortunately, those ideas aren't complete</li>
+    <li>A lot of pages are missing functionality or seem pointless</li>
+    <li>User Profile looks pretty bare, should incorporate some things into it like the progress tracker</li>
+    <li>Progress Tracker is a little confusing to use and doesn't seem organized</li>
+    <li>Workout Buddy and Friends pages are incomplete, and the 'add friend' button doesn't actually do anything</li>
+    <li>Equipment page seems pointless</li>
+    <li>Workout page would be better if it had actual weight lifting exercises, and you could add them to your profile</li>
+    <li>The design of the application and the fonts don't seem unified and are a little hard on the eyes (top menu and colors)</li>
+  </ul>
+  
+  Thoughts:
+    It has a lot of nice ideas but it is too incomplete to use at the moment. If the ideas were fleshed out and there was more functionality implemented, then maybe I'd use it.
 
   <h3>User 5- Devin Romero (Undergraduate Student at UHM)</h3>
   <p>
