@@ -188,16 +188,20 @@ Explore what our community has to say! Below, you'll find feedback straight from
 <div style="background-color: #f2f2f2; padding: 20px; margin-bottom: 20px;">
 
   <h3>User 1 - Zane (Undergraduate Student at UHM)</h3>
-  <p>Thoughts and Prayers-Hayden</p>
+  <p>Thoughts and Prayers-Hayden
+  Pros:
   <ul>
-      Pros 
       <li>It allows for an easier way to meet new gym friends</li>
-      Cons
-      <li>Not everyone uses it so the pool might be a little small</li>
-       Things that could be added:
-      <li>maybe an improvement leaderboard so other people can share their lifts</li>
   </ul>
-
+    Cons:
+    <ul>
+      <li>Not everyone uses it so the pool might be a little small</li>
+    </ul>
+Things that could be added:
+    <ul>
+      <li>maybe an improvement leaderboard so other people can share their lifts</li>
+    </ul>
+</p>
   <h3>User 2 - PJ Espiritu (Undergraduate Student at UHM)</h3>
 
   Pros:
