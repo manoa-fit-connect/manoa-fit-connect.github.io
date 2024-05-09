@@ -174,9 +174,9 @@ Now you have a local instance running at [http://localhost:3000](http://localhos
 
 After modifying the code to your liking you may check for errors by running:
 
-`
+```
 $ meteor npm run lint
-`
+```
 
 ## Community Feedback
 
