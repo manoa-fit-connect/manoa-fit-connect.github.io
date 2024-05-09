@@ -235,7 +235,7 @@ Things that could be added:
   Cons:
   <ul>
     <li> I think what could be added into the website is the social media of the warrior recreation center if they have. </li>
-    <li> It maybe needs a FAQ section on the website then answering. To introduce users to all the possibly features. </li>
+    <li> It maybe needs a FAQ section on the website then answering to introduce users to all the possibly features. </li>
     <li> The user profile page felt lacking, I wish I could add so much more.</li>
   </ul>
   
