@@ -208,7 +208,7 @@ Explore what our community has to say! Below, you'll find feedback straight from
   </ul>
 
   Thoughts:
-  You definitely have the core features of the web app well-established. I love the concept of a social hub for gym goers like me, offering not only a platform to track personal fitness goals but also a space to connect with others who share similar fitness interests. The think the potential growth in here is the community-driven content for UH MANOA, offering students a sense of community and school spirit. Integrating a system where students can organize and promote their own events or share fitness tips and achievements could turn the app into an essential part of us, fostering a vibrant student-led culture centered around health and wellness, which is good factor for our academics goals.
+  You definitely have the core features of the web app well-established. I love the concept of a social hub for gym goers like me, offering not only a platform to track personal fitness goals but also a space to connect with others who share similar fitness interests. I think the potential growth in here is the community-driven content for UH MANOA, offering students a sense of community and school spirit. Integrating a system where students can organize and promote their own events or share fitness tips and achievements could turn the app into an essential part of us, fostering a vibrant student-led culture centered around health and wellness, which is good factor for our academics goals.
 
 
 
